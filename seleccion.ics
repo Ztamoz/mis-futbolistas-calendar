@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mis Futbolistas//Calendar Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mis Futbolistas — Selección
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3e71d4b57f7481ad8bd4c304f5c1fc57@mis-futbolistas
+DTSTAMP:20260926T030000Z
+SUMMARY:🇪🇸 Spain @ 🇬🇧 England
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+LOCATION:Wembley Stadium\, London
+DESCRIPTION:UEFA Nations League\nGroup A3 • Matchday 1\nEnglish: FOX Sp
+ orts: FS1 / FS2 / FOX Soccer Plus (varies by match)\nSpanish: ViX
+URL:https://app.notion.com/3e71d4b57f7481ad8bd4c304f5c1fc57
+CATEGORIES:Football
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e71d4b57f7481de91f9d3276d5bc8d2@mis-futbolistas
+DTSTAMP:20260926T030000Z
+SUMMARY:🇪🇸 Spain vs 🇭🇷 Croatia
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+LOCATION:Estadio Ramón Sánchez-Pizjuán\, Sevilla
+DESCRIPTION:UEFA Nations League\nGroup A3 • Matchday 2\nEnglish: FOX Sp
+ orts: FS1 / FS2 / FOX Soccer Plus (varies by match)\nSpanish: ViX
+URL:https://app.notion.com/3e71d4b57f7481de91f9d3276d5bc8d2
+CATEGORIES:Football
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e71d4b57f7481ed887de69c311bbe9a@mis-futbolistas
+DTSTAMP:20260926T030000Z
+SUMMARY:🇪🇸 Spain vs 🇨🇿 Czechia
+DTSTART:20261003T184500Z
+DTEND:20261003T204500Z
+LOCATION:Estadio Carlos Tartiere\, Oviedo
+DESCRIPTION:UEFA Nations League\nGroup A3 • Matchday 3\nEnglish: FOX Sp
+ orts: FS1 / FS2 / FOX Soccer Plus (varies by match)\nSpanish: ViX
+URL:https://app.notion.com/3e71d4b57f7481ed887de69c311bbe9a
+CATEGORIES:Football
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e71d4b57f74811d9a2ae3188cc38a19@mis-futbolistas
+DTSTAMP:20260926T030000Z
+SUMMARY:🇪🇸 Spain @ 🇭🇷 Croatia
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+LOCATION:Stadion Poljud\, Split
+DESCRIPTION:UEFA Nations League\nGroup A3 • Matchday 4\nEnglish: FOX Sp
+ orts: FS1 / FS2 / FOX Soccer Plus (varies by match)\nSpanish: ViX
+URL:https://app.notion.com/3e71d4b57f74811d9a2ae3188cc38a19
+CATEGORIES:Football
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e71d4b57f74816cabfcd9a7559bbbde@mis-futbolistas
+DTSTAMP:20260926T030000Z
+SUMMARY:🇪🇸 Spain @ 🇨🇿 Czechia
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+LOCATION:Epet Arena\, Prague
+DESCRIPTION:UEFA Nations League\nGroup A3 • Matchday 5\nEnglish: FOX Sp
+ orts: FS1 / FS2 / FOX Soccer Plus (varies by match)\nSpanish: ViX
+URL:https://app.notion.com/3e71d4b57f74816cabfcd9a7559bbbde
+CATEGORIES:Football
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e71d4b57f7481e1ad90c3c38fc77d89@mis-futbolistas
+DTSTAMP:20260926T030000Z
+SUMMARY:🇪🇸 Spain vs 🇬🇧 England
+DTSTART:20261115T194500Z
+DTEND:20261115T214500Z
+LOCATION:Estadio Metropolitano\, Madrid
+DESCRIPTION:UEFA Nations League\nGroup A3 • Matchday 6\nEnglish: FOX Sp
+ orts: FS1 / FS2 / FOX Soccer Plus (varies by match)\nSpanish: ViX
+URL:https://app.notion.com/3e71d4b57f7481e1ad90c3c38fc77d89
+CATEGORIES:Football
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
